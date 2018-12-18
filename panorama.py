@@ -1,3 +1,5 @@
+# https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
+
 # import the necessary packages
 import numpy as np
 import imutils
