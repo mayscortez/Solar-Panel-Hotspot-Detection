@@ -1,4 +1,6 @@
 # import the necessary packages
+# https://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/
+
 # NOTE: must have panorama.py saved in the same file directory as this script
 from panorama import Stitcher
 import argparse
